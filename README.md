@@ -52,6 +52,8 @@ Calcular a média do valor em dólar do produto nos anos de 2023 e 2024.
 
 |--- value_dollar.py # Script python que calcula a média do dólar para determinado produto nos anos de 2023 e 2024
 
+|--- README.md # Documentação
+
 ## Instalação
 - Clone o repositório;
 - Garanta que as bibliotecas necessárias estão instaladas;
